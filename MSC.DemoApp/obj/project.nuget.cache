@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vq/Q2E2ZcKpiTGNzp9EKNqPhG7z5hFy/ggxlXz3pHMISIIU0IMaT6my5Gg9DpTqRkwkJJA0BVb2j5dmDyr2O2g==",
+  "success": true,
+  "projectFilePath": "C:\\Demos\\MSC.DemoApp\\MSC.DemoApp\\MSC.DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Semen.Shekhovtsov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Semen.Shekhovtsov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Semen.Shekhovtsov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

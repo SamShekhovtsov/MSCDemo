@@ -1,0 +1,12 @@
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\bin\Debug\net6.0\MSC.DemoLogic.deps.json
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\bin\Debug\net6.0\MSC.DemoLogic.dll
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\bin\Debug\net6.0\MSC.DemoLogic.pdb
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.csproj.AssemblyReference.cache
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.AssemblyInfoInputs.cache
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.AssemblyInfo.cs
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.csproj.CoreCompileInputs.cache
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.dll
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\refint\MSC.DemoLogic.dll
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\MSC.DemoLogic.pdb
+C:\Demos\MSC.DemoApp\MSC.DemoLibrary\obj\Debug\net6.0\ref\MSC.DemoLogic.dll
